@@ -1,1 +1,1 @@
-"# CPPLearning" 
+Compilation: "g++ -o main main.cpp -ggdb -O2 -DNDEBUG"
